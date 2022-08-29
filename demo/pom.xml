@@ -92,7 +92,7 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>MyPipeline</mainClass>
+          <mainClass>PubSubStreaming</mainClass>
         </configuration>
       </plugin>
     </plugins>
